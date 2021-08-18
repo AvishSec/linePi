@@ -1,3 +1,3 @@
 # linePi
 
-A Basic 
+A basic linux vulnerability finding
